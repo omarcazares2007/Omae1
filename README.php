@@ -29,7 +29,42 @@
   echo json_encode($Objeto);
   }
 }
+{
+  //YO CREARE LA SEGUNDA VARIABLE 
+$Objeto2 = (“tv”); 
+ 
+“caracteristica1” => “Ram”; 
+“caracteristica2” => “Tarjeta ”;
+“caracteristica3” => “Flash”;
+“caracteristica4” => “Pantalla”; 
+“caracteristica5”=> “Procesador”;
+“caracteristica6”  => “touch”,
+“caracteristica7”  => “almacenamiento”,
+“caracteristica8”  => “Camaras”,
+“caracteristica9”  => “diseño”,
+“caracteristica10” => “bateria”,
+“caracteristica11”=> “parlantes ”,
+  //Este seria un tipo de dato doferente (De tipo ENTERO o INT)
+“caracteristicapeso” => “450g“,
+  //Este seria un tipo de dato doferente (De tipo decimal o float)
+“caracteristicagrosor”=> “6.5pg”,
+  // (De tipo ENTERO o INT)
+“caracteristicatamaño”=> “15cm”,
+ // (De tipo decimal o float)
+"caracteristica15” => “25.8”,
+  // (De tipo decimal o float)
+“caracteristica16” => “2.0”,
+  
+“caracteristica17”=> “version 9.0”,
+“caracteristica” => “Protecion”,
+“caracteristica” => “lector “,
+“caracteristica” => “Red”,
+  //ESTA LINEA DE CODIGO ES PARA IMPRIMIR
+echo json_encode($Objeto2);
 
+
+   }
+}
 
 
 
