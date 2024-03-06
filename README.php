@@ -1,7 +1,10 @@
+//Primero Indicamos que sera PHP
 <php
   {
-  $Objeto” = Array(“Computadora”); 
- 
+  //Crearemos el primero objeto j son 
+  $Objeto” = (“Computadora”); 
+
+  // por segundo paso agregamos los 20 atributos
 “Atributo1” => “Procesador (CPU)”; 
 “Atributo2” => “Memoria RAM”;
 “Atributo3” => “Disco duro (almacenamiento)”;
@@ -22,8 +25,8 @@
 “Atributo18” => “Puerto de alimentación”,
 “Atributo19” => “Software preinstalado “,
 “Atributo20” => “Puertos de video”,
-
-echo = "($Objeto)";
+// al final solo imprimiremos e¿la varibale donde guardamos todos los atributos
+  echo json_encode($Objeto);
   }
 }
 
