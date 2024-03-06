@@ -66,6 +66,30 @@ echo json_encode($Objeto2);
    }
 }
 
+$Objeto3 = (“Control remoto”); 
+ 
+“1” => (“botones”); 
+“2” => (“leds ”);
+“3” => (“ligero”);
+“4” => (“tarjeta”); 
+“”=> (“Procesador”);
+“peso”  => 300g,
+“7”  => (“precision”),
+“8”  =>( “Camaras”),
+“9”  => (“flexibilidad”),
+“10” => (“bateria”),
+“11”=> (“matriz ”),
+“12” =>( “inflarrojo“),
+“grosor”=> 10.5pg,
+“14”=> (“lector"),
+"profundidad” => 25.8,
+“version” => 2.0,
+“17”=> (“consola de operaciones”),
+“18” => (“Protecion”),
+“tamaño” => 30cm ,
+“20” => (“red local”),
+
+   }
 
 
 
