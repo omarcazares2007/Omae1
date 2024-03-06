@@ -91,6 +91,53 @@ $Objeto3 = (“Control remoto”);
 
    }
 
+{
+$Objeto4 = (“camara”); 
+ 
+"1 Característica"=> "Resolución ajustable"
+
+"2 Característica"=> "Zoom óptico"
+
+"3 Característica"=> "Estabilización de imagen"
+
+"4 Característica"=> "Sensor de alta calidad"
+
+"5 Característica"=> "Enfoque automático rápido"
+
+"6 Característica"=> "Capacidad de grabación de video"
+
+"7 Característica"=> "Conectividad Wi-Fi"
+
+"8 Característica"=> "Pantalla táctil"
+
+"9 Característica"=> "Modos de escena predefinidos"
+
+"10 Característica"=> "Control manual de exposición"
+
+"11 Característica"=> "Detección de rostros"
+
+"12 Característica"=> "Disparo en ráfaga"
+
+"13 Característica"=> "Compatibilidad con objetivos intercambiables"
+
+"14 Característica"=> "Visor electrónico"
+
+"15 Característica"=> "Reducción de ruido en imágenes"
+
+"16 Característica"=> "Diversidad de formatos de archivo"
+
+"17 Característica"=> "Sistema de detección de movimiento"
+
+"18 Característica"=> "Funciones de edición integradas"
+
+"19 Característica"=> "GPS incorporado"
+
+"20 Característica"=> "Compatibilidad con tarjetas de memoria de alta capacidad""Sensor de alta calidad"
+
+
+
+   }
+}
 
 
 
